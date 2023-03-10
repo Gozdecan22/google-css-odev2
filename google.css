@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  margin: 50px auto 0;
+}
+table {
+  border: 2px;
+}
+
+.container {
+  width: 1000px;
+  background-color: rgb(231, 228, 222);
+  margin: auto;
+}
+
+#left-box {
+  width: 400px;
+  background-color: rgb(126, 2229, 218);
+}
+#mid-box {
+  background-color: rgb(112, 204, 194);
+  width: 191px;
+}
+#right-box {
+  background-color: rgb(98, 179, 170);
+  width: 400px;
+}
+
+.table-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn {
+  margin: 3px 3px;
+}
